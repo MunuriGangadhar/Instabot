@@ -1,0 +1,5 @@
+instaloader
+selenium
+instapy
+schedule
+python-dotenv
